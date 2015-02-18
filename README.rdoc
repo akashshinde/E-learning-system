@@ -1,3 +1,5 @@
+{<img src="https://travis-ci.org/akashshinde/E-learning-system.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/akashshinde/E-learning-system]
+
 Clone repository to your computer.Run
  bundle install
 migrate database
